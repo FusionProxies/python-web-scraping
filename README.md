@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://fusionproxy.net/?utm_source=github&utm_medium=python-web-scraping">
+  <a href="https://fusionproxy.net/?utm_source=github&utm_medium=referral&utm_campaign=python-web-scraping">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/FusionProxies/.github/main/assets/logo-on-dark.png">
       <img src="https://raw.githubusercontent.com/FusionProxies/.github/main/assets/logo-on-light.png" alt="Fusion Proxy" height="52">
@@ -147,7 +147,7 @@ Each row has `title`, `price`, `rating` (1 to 5), `in_stock` and `url`.
 - [python-requests-proxy](https://github.com/FusionProxies/python-requests-proxy): every way to use a proxy in requests
 - [python-requests-retry](https://github.com/FusionProxies/python-requests-retry): retries, backoff and IP rotation
 
-Need reliable IPs for scraping? [Fusion Proxy residential proxies](https://fusionproxy.net/proxies/residential?utm_source=github&utm_medium=python-web-scraping) start at $2.95/GB, with a [free trial](https://fusionproxy.net/free-trial?utm_source=github&utm_medium=python-web-scraping).
+Need reliable IPs for scraping? [Fusion Proxy residential proxies](https://fusionproxy.net/proxies/residential?utm_source=github&utm_medium=referral&utm_campaign=python-web-scraping) start at $2.95/GB, with a [free trial](https://fusionproxy.net/free-trial?utm_source=github&utm_medium=referral&utm_campaign=python-web-scraping).
 
 ## License
 
